@@ -1,11 +1,11 @@
 {
     "id": "5D04C6BC",
-    "path": null,
-    "project_path": null,
+    "path": "C:/Users/aldhen/RSkolan/udemy_tutorial/hello_world.R",
+    "project_path": "hello_world.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "2008296340",
     "contents": "",
-    "dirty": true,
+    "dirty": false,
     "created": 1693571052727.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -17,11 +17,11 @@
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 7454057966332046965,
-    "encoding": "",
+    "lastKnownWriteTime": 1693572879,
+    "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1693571221797,
+    "last_content_update": 1693572879710,
     "read_only": false,
     "read_only_alternatives": []
 }

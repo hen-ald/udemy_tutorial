@@ -3,7 +3,7 @@
     "path": "C:/Users/aldhen/RSkolan/udemy_tutorial/hello_world.R",
     "project_path": "hello_world.R",
     "type": "r_source",
-    "hash": "513154392",
+    "hash": "1772627567",
     "contents": "",
     "dirty": false,
     "created": 1693571052727.0,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "5,0",
-        "scrollLine": "0"
+        "cursorPosition": "104,0",
+        "scrollLine": "68"
     },
     "folds": "",
-    "lastKnownWriteTime": 1693576093,
+    "lastKnownWriteTime": 1693583554,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1693576093509,
+    "last_content_update": 1693583554145,
     "read_only": false,
     "read_only_alternatives": []
 }
